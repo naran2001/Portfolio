@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@vercel/blob": "^2.3.3",
+    "@vercel/kv": "^3.0.0",
+    "pdf-parse": "^2.4.5",
+    "pdf2json": "^4.0.3"
+  },
+  "name": "portfolio",
+  "version": "1.0.0",
+  "main": "extract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

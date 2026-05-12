@@ -1,0 +1,234 @@
+{
+    "hero": {
+        "name": "Thilina Narampanawa",
+        "bio": "Software Engineer specializing in full-stack web development with experience in Laravel, PHP, React.js, and Next.js. Skilled in frontend & backend development, API integration, UI\/UX implementation, deployment, and hosting management, focused on building scalable and user-centric web applications.",
+        "titles": [
+            "Full Stack Developer",
+            "Software Engineer",
+            "React & Laravel Expert"
+        ],
+        "logo_text": "",
+        "show_image_logo": false
+    },
+    "stats": {
+        "years_exp": "2",
+        "tech_stack": 20,
+        "satisfaction": 100
+    },
+    "about": {
+        "bio_paragraphs": [
+            "Software Engineer with a Computer Science background and hands-on experience in full-stack web development. I specialize in building scalable, high-performance web applications using Laravel, PHP, React.js, and Next.js.",
+            "I have experience across frontend and backend development, API integration, database design, UI\/UX implementation, deployment, and hosting management, including configuring and maintaining applications in production environments. I focus on writing clean, maintainable code and delivering efficient, user-centric solutions.",
+            "Passionate about continuous learning and problem-solving, I thrive in collaborative environments where I can contribute to real-world projects and grow as a software engineer."
+        ],
+        "email": "thilinanarampanawa@gmail.com",
+        "location": "No 60, Sirimalwaththa, Gunnapana, Kandy, Sri Lanka",
+        "phone": "+94 71 35 35 964",
+        "languages": "Sinhala, English",
+        "linkedin": "https:\/\/www.linkedin.com\/in\/thilinanarampanawa\/",
+        "github": "https:\/\/www.linkedin.com\/in\/thilinanarampanawa\/",
+        "show_github": false
+    },
+    "experience": [
+        {
+            "id": 1,
+            "title": "Associate Software Engineer",
+            "company": "Avia Group Pvt Ltd, Sri Lanka",
+            "date": "Aug 2025 - Present",
+            "bullets": [
+                "Leading the full implementation of JobDaddy V3 platform including frontend, APIs, and advanced feature development initiatives.",
+                "Implementing and expanding the CBBS Certificate System with scalable workflows and improved system modules.",
+                "Developing the Lenama stock management system with enhanced UI components and optimized backend integrations.",
+                "Maintaining and improving official company websites through UI updates, performance optimization, and bug fixes.",
+                "Managing hosting environments including DNS, SSL, email configurations, and production deployments across systems."
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Software Engineer Intern",
+            "company": "Avia Group Pvt Ltd, Sri Lanka",
+            "date": "Feb 2025 - Aug 2025",
+            "bullets": [
+                "Redesigned and improved front-end components of the JobDaddy V2 platform enhancing usability and responsiveness.",
+                "Developed and tested the JobDaddy V2 revenue model validating multiple business scenarios for financial accuracy.",
+                "Built and deployed the Lenama.lk website with full UI\/UX improvements and backend integrations.",
+                "Implemented and customized CBBS Moodle-based LMS with enhanced configurations and functional improvements.",
+                "Developed the CBBS student registration system with improved user experience and structured data handling."
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Full Stack Developer Intern",
+            "company": "Silicon Radon Networks Pvt Ltd",
+            "date": "May 2024 - Nov 2024",
+            "bullets": [
+                "Built and maintained responsive websites using WordPress, Laravel, Bootstrap, and Tailwind CSS frameworks.",
+                "Designed intuitive user interfaces focusing on accessibility, responsiveness, and improved engagement metrics.",
+                "Managed website hosting and updates through cPanel ensuring consistent uptime and optimized performance.",
+                "Utilized GitHub for version control enabling collaborative development and structured code management."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "id": 1,
+            "title": "BSc (Hons) Computer Science",
+            "institution": "Staffordshire University, UK",
+            "date": "2024"
+        },
+        {
+            "id": 2,
+            "title": "Pearson BTEC HND in Computing",
+            "institution": "APIIT Sri Lanka",
+            "date": "2023"
+        },
+        {
+            "id": 3,
+            "title": "G.C.E Advanced Level",
+            "institution": "Kingswood College, Kandy, Sri Lanka",
+            "date": "2020"
+        },
+        {
+            "id": 4,
+            "title": "G.C.E Ordinary Level",
+            "institution": "Kingswood College, Kandy, Sri Lanka",
+            "date": "2016"
+        }
+    ],
+    "skills": [
+        {
+            "category": "Frontend & UI\/UX",
+            "icon": "fa-laptop-code",
+            "items": [
+                {
+                    "name": "React.js & Next.js",
+                    "percent": 90
+                },
+                {
+                    "name": "HTML\/CSS, Bootstrap & Tailwind",
+                    "percent": 95
+                },
+                {
+                    "name": "UI\/UX Implementation",
+                    "percent": 85
+                }
+            ]
+        },
+        {
+            "category": "Backend & APIs",
+            "icon": "fa-server",
+            "items": [
+                {
+                    "name": "Laravel & PHP",
+                    "percent": 90
+                },
+                {
+                    "name": "Java & Python",
+                    "percent": 80
+                },
+                {
+                    "name": "RESTful APIs & Integrations",
+                    "percent": 85
+                }
+            ]
+        },
+        {
+            "category": "Tools & Methodologies",
+            "icon": "fa-cogs",
+            "items": [
+                {
+                    "name": "SQL, MongoDB & PostgreSQL",
+                    "percent": 85
+                },
+                {
+                    "name": "Git, GitHub & Version Control",
+                    "percent": 90
+                },
+                {
+                    "name": "Agile\/Scrum & QA Debugging",
+                    "percent": 85
+                },
+                {
+                    "name": "cPanel, Hosting & Moodle LMS",
+                    "percent": 85
+                }
+            ]
+        }
+    ],
+    "achievements": [
+        "1st Place \u2013 Inter Schools\u2019 Photographic Competition",
+        "Upcoming Photographer of the Year \u2013 Kingswood College",
+        "Successfully completed Visharad Examination \u2013 Bathkande University, India"
+    ],
+    "activities": [
+        "Treasurer \u2013 Student Activity Club (APIIT Sri Lanka)",
+        "President \u2013 Photographic Club (Kingswood College)",
+        "Coordinator \u2013 IT Society (Kingswood College)",
+        "Head of Media \u2013 Interact Club (Kingswood College)"
+    ],
+    "files": {
+        "cv": "cv\/Thilina_Narampanawa_CV.pdf",
+        "profile_image": "img\/profile.png",
+        "logo": "img\/logo.png",
+        "logo_light": "img\/logo.png",
+        "logo_dark": "img\/logo.png"
+    },
+    "projects": [
+        {
+            "id": 1,
+            "title": "IoT Smart Traffic Management System",
+            "year": "2023",
+            "image": "img\/projects\/traffic.png",
+            "description": "Developed a smart traffic management system with Arduino, using IR sensors for vehicle counting and RFID for emergency vehicle detection. Included a web-based dashboard for real-time monitoring and control."
+        },
+        {
+            "id": 2,
+            "title": "Remote Working Wellbeing Platform",
+            "year": "2022",
+            "image": "img\/projects\/wellbeing.png",
+            "description": "Investigated the effects of remote working on IT professionals' social wellbeing. Proposed a technological platform for stress relief, time management, and support systems."
+        },
+        {
+            "id": 3,
+            "title": "Vehicle Health & Safety IoT Detection",
+            "year": "2021",
+            "image": "img\/projects\/vehicle.png",
+            "description": "Created an IoT-based system to monitor vehicle health and safety, featuring sensors to detect issues and provide navigation to service centers."
+        },
+        {
+            "id": 4,
+            "title": "Camera Store E-commerce System",
+            "year": "2021",
+            "image": "img\/projects\/camera.png",
+            "description": "Developed a dynamic e-commerce website for a camera store using PHP and integrated APIs for payment processing and inventory management."
+        },
+        {
+            "id": 5,
+            "title": "Wildlife Conservation Management",
+            "year": "2022",
+            "image": "img\/projects\/wildlife.png",
+            "description": "Created a management system for wildlife conservation using Java and NetBeans, tracking animal populations, poaching incidents, and conservation activities."
+        },
+        {
+            "id": 6,
+            "title": "Math Skill Assessment Program",
+            "year": "2021",
+            "image": "img\/projects\/math.png",
+            "description": "Developed a Python-based program to assess and improve mathematical skills with various quizzes and exercises, providing immediate feedback."
+        },
+        {
+            "id": 7,
+            "title": "Pet Shop Webstore (WordPress)",
+            "year": "2023",
+            "image": "img\/projects\/pet_wp.png",
+            "description": "Built an online store for a pet shop using WordPress, featuring product listings, shopping cart functionality, payment gateway integration, and support for vouchers."
+        },
+        {
+            "id": 8,
+            "title": "Pet Shop Webstore (Vue.js)",
+            "year": "2023",
+            "image": "img\/projects\/pet_vue.png",
+            "description": "Developed a modern online store for a pet shop using Vue.js. The webstore features dynamic product listings, seamless payment gateway integration, and a responsive user experience."
+        }
+    ]
+}
